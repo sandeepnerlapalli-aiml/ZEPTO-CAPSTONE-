@@ -1,2 +1,2 @@
-# ZEPTO-CAPSTONE-
+## ZEPTO-CAPSTONE-
 gen AI capstone project 
